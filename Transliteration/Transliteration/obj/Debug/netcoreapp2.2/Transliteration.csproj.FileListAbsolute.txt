@@ -1,0 +1,11 @@
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.deps.json
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.runtimeconfig.json
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.runtimeconfig.dev.json
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.dll
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.pdb
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csprojAssemblyReference.cache
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csproj.CoreCompileInputs.cache
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.AssemblyInfoInputs.cache
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.AssemblyInfo.cs
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.dll
+/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.pdb
