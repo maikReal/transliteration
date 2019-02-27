@@ -3,24 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a0d6581e-4ce9-43b5-8e46-967addc44c93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Transliteration/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Transliteration/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Transliteration/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Transliteration/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Transliteration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Transliteration/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Transliteration/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Transliteration/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/Transliteration.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/Transliteration.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/Transliteration.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/Transliteration.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/Transliteration.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/Transliteration.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transliteration/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Transliteration/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +17,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Transliteration/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
+            <state relative-caret-position="615">
+              <caret line="43" column="55" lean-forward="true" selection-start-line="43" selection-end-line="44" />
               <folding>
-                <marker date="1551279331269" expanded="false" signature="6:74" ph="..." />
-                <marker date="1551279331269" expanded="true" signature="101:2954" ph="{...}" />
-                <marker date="1551279331269" expanded="true" signature="129:2952" ph="{...}" />
-                <marker date="1551279331269" expanded="true" signature="193:2819" ph="{...}" />
-                <marker date="1551279331269" expanded="true" signature="362:1040" ph="{...}" />
-                <marker date="1551279331269" expanded="true" signature="1139:2535" ph="{...}" />
-                <marker date="1551279331269" expanded="true" signature="2692:2783" ph="{...}" />
-                <marker date="1551279331269" expanded="true" signature="2868:2946" ph="{...}" />
+                <marker date="1551279383280" expanded="false" signature="6:74" ph="..." />
+                <marker date="1551279383280" expanded="true" signature="101:2953" ph="{...}" />
+                <marker date="1551279383280" expanded="true" signature="129:2951" ph="{...}" />
+                <marker date="1551279383280" expanded="true" signature="193:2819" ph="{...}" />
+                <marker date="1551279383280" expanded="true" signature="362:1040" ph="{...}" />
+                <marker date="1551279383280" expanded="true" signature="1139:2535" ph="{...}" />
+                <marker date="1551279383280" expanded="true" signature="2692:2783" ph="{...}" />
+                <marker date="1551279383280" expanded="true" signature="2868:2945" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -139,12 +123,20 @@
       <option name="presentableId" value="Default" />
       <updated>1550670905249</updated>
       <workItem from="1550670909803" duration="3403000" />
-      <workItem from="1551277041642" duration="2267000" />
+      <workItem from="1551277041642" duration="2508000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated transliteration rules">
+      <created>1551279558910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551279558910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5670000" />
+    <option name="totallyTimeSpent" value="5911000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,6 +184,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated transliteration rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated transliteration rules" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -212,17 +208,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Transliteration/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
+        <state relative-caret-position="615">
+          <caret line="43" column="55" lean-forward="true" selection-start-line="43" selection-end-line="44" />
           <folding>
-            <marker date="1551279331269" expanded="false" signature="6:74" ph="..." />
-            <marker date="1551279331269" expanded="true" signature="101:2954" ph="{...}" />
-            <marker date="1551279331269" expanded="true" signature="129:2952" ph="{...}" />
-            <marker date="1551279331269" expanded="true" signature="193:2819" ph="{...}" />
-            <marker date="1551279331269" expanded="true" signature="362:1040" ph="{...}" />
-            <marker date="1551279331269" expanded="true" signature="1139:2535" ph="{...}" />
-            <marker date="1551279331269" expanded="true" signature="2692:2783" ph="{...}" />
-            <marker date="1551279331269" expanded="true" signature="2868:2946" ph="{...}" />
+            <marker date="1551279383280" expanded="false" signature="6:74" ph="..." />
+            <marker date="1551279383280" expanded="true" signature="101:2953" ph="{...}" />
+            <marker date="1551279383280" expanded="true" signature="129:2951" ph="{...}" />
+            <marker date="1551279383280" expanded="true" signature="193:2819" ph="{...}" />
+            <marker date="1551279383280" expanded="true" signature="362:1040" ph="{...}" />
+            <marker date="1551279383280" expanded="true" signature="1139:2535" ph="{...}" />
+            <marker date="1551279383280" expanded="true" signature="2692:2783" ph="{...}" />
+            <marker date="1551279383280" expanded="true" signature="2868:2945" ph="{...}" />
           </folding>
         </state>
       </provider>
