@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/home/maiky/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/mkrupin/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/Transliteration.csproj",
+      "projectUniqueName": "/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/Transliteration.csproj",
       "projectName": "Transliteration",
-      "projectPath": "/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/Transliteration.csproj",
-      "packagesPath": "/home/maiky/.nuget/packages/",
-      "outputPath": "/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/",
+      "projectPath": "/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/Transliteration.csproj",
+      "packagesPath": "/Users/mkrupin/.nuget/packages/",
+      "outputPath": "/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/maiky/.config/NuGet/NuGet.Config"
+        "/Users/mkrupin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

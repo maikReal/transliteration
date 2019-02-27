@@ -9,3 +9,14 @@
 /home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.AssemblyInfo.cs
 /home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.dll
 /home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.pdb
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.deps.json
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.runtimeconfig.json
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.runtimeconfig.dev.json
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.dll
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/bin/Debug/netcoreapp2.2/Transliteration.pdb
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csprojAssemblyReference.cache
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.csproj.CoreCompileInputs.cache
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.AssemblyInfoInputs.cache
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.AssemblyInfo.cs
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.dll
+/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/obj/Debug/netcoreapp2.2/Transliteration.pdb

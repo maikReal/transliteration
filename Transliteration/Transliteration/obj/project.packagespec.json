@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/Transliteration.csproj",
+    "projectUniqueName": "/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/Transliteration.csproj",
     "projectName": "Transliteration",
-    "projectPath": "/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/Transliteration.csproj",
-    "outputPath": "/home/maiky/Documents/Rider/Transliteration/Transliteration/Transliteration/obj/",
+    "projectPath": "/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/Transliteration.csproj",
+    "outputPath": "/Users/mkrupin/Documents/git/transliteration/Transliteration/Transliteration/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
